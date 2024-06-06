@@ -1,0 +1,5 @@
+
+
+// i have made allEvents.ts , 
+in this, we can use every event like click.ts and other more and only we can give this allEvents.ts to initWs.ts to 
+increase readiblity.
